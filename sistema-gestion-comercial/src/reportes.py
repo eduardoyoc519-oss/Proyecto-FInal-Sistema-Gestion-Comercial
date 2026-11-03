@@ -148,6 +148,6 @@ def reporte_promedio_ventas():
     print(f"promedio de venta por transaccion: Q{promedio:.2f}")
 
 
-
+"""hola pruebaaa"""
 
 
