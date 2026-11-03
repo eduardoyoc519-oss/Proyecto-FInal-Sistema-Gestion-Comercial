@@ -1,0 +1,74 @@
+[
+    {
+        "numero_venta": "v-0001",
+        "fecha": "2026-11-02 23:57:37",
+        "items": [
+            {
+                "codigo": "0011",
+                "nombre": "coca cola 3L",
+                "precio_unitario": 25.0,
+                "cantidad": 400,
+                "subtotal": 10000.0
+            },
+            {
+                "codigo": "001",
+                "nombre": "cafe",
+                "precio_unitario": 5.0,
+                "cantidad": 3,
+                "subtotal": 15.0
+            },
+            {
+                "codigo": "0010",
+                "nombre": "coca cola 2.5L",
+                "precio_unitario": 20.0,
+                "cantidad": 300,
+                "subtotal": 6000.0
+            },
+            {
+                "codigo": "006",
+                "nombre": "saborin",
+                "precio_unitario": 1.0,
+                "cantidad": 5,
+                "subtotal": 5.0
+            },
+            {
+                "codigo": "007",
+                "nombre": "chocolate",
+                "precio_unitario": 5.0,
+                "cantidad": 9,
+                "subtotal": 45.0
+            },
+            {
+                "codigo": "002",
+                "nombre": "sal",
+                "precio_unitario": 2.0,
+                "cantidad": 50,
+                "subtotal": 100.0
+            },
+            {
+                "codigo": "004",
+                "nombre": "consome del pollito",
+                "precio_unitario": 1.5,
+                "cantidad": 9,
+                "subtotal": 13.5
+            },
+            {
+                "codigo": "006",
+                "nombre": "saborin",
+                "precio_unitario": 1.0,
+                "cantidad": 2,
+                "subtotal": 2.0
+            },
+            {
+                "codigo": "009",
+                "nombre": "coca cola 1.5L",
+                "precio_unitario": 13.0,
+                "cantidad": 400,
+                "subtotal": 5200.0
+            }
+        ],
+        "subtotal": 21380.5,
+        "iva": 2565.66,
+        "total": 23946.16
+    }
+]

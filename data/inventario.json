@@ -1,0 +1,86 @@
+[
+    {
+        "fecha": "2026-11-02 23:57:37",
+        "codigo": "0011",
+        "tipo": "salida",
+        "cantidad": 400,
+        "descripcion": "venta v-0001"
+    },
+    {
+        "fecha": "2026-11-02 23:57:37",
+        "codigo": "001",
+        "tipo": "salida",
+        "cantidad": 3,
+        "descripcion": "venta v-0001"
+    },
+    {
+        "fecha": "2026-11-02 23:57:37",
+        "codigo": "0010",
+        "tipo": "salida",
+        "cantidad": 300,
+        "descripcion": "venta v-0001"
+    },
+    {
+        "fecha": "2026-11-02 23:57:37",
+        "codigo": "006",
+        "tipo": "salida",
+        "cantidad": 5,
+        "descripcion": "venta v-0001"
+    },
+    {
+        "fecha": "2026-11-02 23:57:37",
+        "codigo": "007",
+        "tipo": "salida",
+        "cantidad": 9,
+        "descripcion": "venta v-0001"
+    },
+    {
+        "fecha": "2026-11-02 23:57:37",
+        "codigo": "002",
+        "tipo": "salida",
+        "cantidad": 50,
+        "descripcion": "venta v-0001"
+    },
+    {
+        "fecha": "2026-11-02 23:57:37",
+        "codigo": "004",
+        "tipo": "salida",
+        "cantidad": 9,
+        "descripcion": "venta v-0001"
+    },
+    {
+        "fecha": "2026-11-02 23:57:37",
+        "codigo": "006",
+        "tipo": "salida",
+        "cantidad": 2,
+        "descripcion": "venta v-0001"
+    },
+    {
+        "fecha": "2026-11-02 23:57:37",
+        "codigo": "009",
+        "tipo": "salida",
+        "cantidad": 400,
+        "descripcion": "venta v-0001"
+    },
+    {
+        "fecha": "2026-11-02 23:59:02",
+        "codigo": "002",
+        "tipo": "entrada",
+        "cantidad": 40,
+        "descripcion": "por que si"
+    },
+    {
+        "fecha": "2026-11-02 23:59:33",
+        "codigo": "0011",
+        "tipo": "entrada",
+        "cantidad": 400,
+        "descripcion": "POR QUE SE VENDE"
+    },
+    {
+        "fecha": "2026-11-02 23:59:55",
+        "codigo": "004",
+        "tipo": "entrada",
+        "cantidad": 3000,
+        "descripcion": "por que es del pollito"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "codigo": "002",
+        "nombre": "sal",
+        "categoria": "especias",
+        "precio_venta": 2.0,
+        "cantidad_disponible": 90,
+        "stock_minimo": 3,
+        "activo": true
+    },
+    {
+        "codigo": "001",
+        "nombre": "cafe",
+        "categoria": "CAFE",
+        "precio_venta": 5.0,
+        "cantidad_disponible": 117,
+        "stock_minimo": 5,
+        "activo": true
+    },
+    {
+        "codigo": "003 pimienta",
+        "nombre": "pimienta",
+        "categoria": "especias",
+        "precio_venta": 2.0,
+        "cantidad_disponible": 120,
+        "stock_minimo": 500,
+        "activo": false
+    },
+    {
+        "codigo": "004",
+        "nombre": "consome del pollito",
+        "categoria": "especias",
+        "precio_venta": 1.5,
+        "cantidad_disponible": 3391,
+        "stock_minimo": 20,
+        "activo": true
+    },
+    {
+        "codigo": "006",
+        "nombre": "saborin",
+        "categoria": "especias",
+        "precio_venta": 1.0,
+        "cantidad_disponible": 432,
+        "stock_minimo": 19,
+        "activo": true
+    },
+    {
+        "codigo": "007",
+        "nombre": "chocolate",
+        "categoria": "chocolate",
+        "precio_venta": 5.0,
+        "cantidad_disponible": 991,
+        "stock_minimo": 30,
+        "activo": true
+    },
+    {
+        "codigo": "008",
+        "nombre": "coca cola",
+        "categoria": "gaseosas",
+        "precio_venta": 5.0,
+        "cantidad_disponible": 60000,
+        "stock_minimo": 35,
+        "activo": true
+    },
+    {
+        "codigo": "009",
+        "nombre": "coca cola 1.5L",
+        "categoria": "gaseosas",
+        "precio_venta": 13.0,
+        "cantidad_disponible": 89600,
+        "stock_minimo": 50,
+        "activo": true
+    },
+    {
+        "codigo": "0010",
+        "nombre": "coca cola 2.5L",
+        "categoria": "gaseosas",
+        "precio_venta": 20.0,
+        "cantidad_disponible": 6700,
+        "stock_minimo": 20,
+        "activo": true
+    },
+    {
+        "codigo": "0011",
+        "nombre": "coca cola 3L",
+        "categoria": "gaseosas",
+        "precio_venta": 25.0,
+        "cantidad_disponible": 7000000000,
+        "stock_minimo": 10,
+        "activo": true
+    }
+]
