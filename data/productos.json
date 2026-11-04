@@ -88,5 +88,14 @@
         "cantidad_disponible": 7000000000,
         "stock_minimo": 10,
         "activo": true
+    },
+    {
+        "codigo": "0015",
+        "nombre": "takis fuego",
+        "categoria": "golosinas",
+        "precio_venta": 10.0,
+        "cantidad_disponible": 40200,
+        "stock_minimo": 7000,
+        "activo": false
     }
 ]

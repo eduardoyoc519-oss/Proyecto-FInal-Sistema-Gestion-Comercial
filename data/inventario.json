@@ -82,5 +82,12 @@
         "tipo": "entrada",
         "cantidad": 3000,
         "descripcion": "por que es del pollito"
+    },
+    {
+        "fecha": "2026-11-04 17:38:34",
+        "codigo": "0015",
+        "tipo": "entrada",
+        "cantidad": 200,
+        "descripcion": "nunca son sufucientes"
     }
 ]
